@@ -1,3 +1,3 @@
 # hello-repository
 My first repository on GitHub
-I like art and comics.
+I like art,comics and fashion
